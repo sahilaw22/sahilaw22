@@ -19,19 +19,6 @@ I am passionate developer building my own apps and websites with a strong focus 
 
 <br>
 
-<h1 align="center">
-  Github Stats
-</h1>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilaw22&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilaw22&layout=compact&theme=radical&hide_border=true&background=0D1117" width="70%" />
-</div>
-
-<br>
-
-
 <br>
 <div align="center">
 <h1> Skills </h1>
@@ -54,6 +41,17 @@ I am passionate developer building my own apps and websites with a strong focus 
     </td>
  </tr>
 </table>
+
+<br>
+<h1 align="center">
+  Github Stats
+</h1>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eta-livid.vercel.app?user=sahilaw22&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilaw22&layout=compact&theme=radical&hide_border=true&background=0D1117" width="70%" />
+</div>
 
 <br>
 
