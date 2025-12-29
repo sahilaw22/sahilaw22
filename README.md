@@ -3,7 +3,7 @@
 </h1>
 <p align="center" style="font-family: 'Permanent Marker', 'Comic Sans MS', cursive; font-size: 22px; color: #B57EDC; background: transparent; padding: 10px 0; border-radius: 8px;">
 </p>
-<h3>
+<h3 align="center">
 I am passionate developer building my own apps and websites with a strong focus on <b>Flutter</b> and <b>Python</b>. I have a deep interest in AI/ML and Data Analysis,I enjoy crafting practical solutions that solve real-world problems
 </h3>
 <br>
@@ -33,7 +33,7 @@ I am passionate developer building my own apps and websites with a strong focus 
 
 
 <br>
-
+<div align="center">
 <h1> Skills </h1>
 <table style="margin: 5px; border-radius: 18px; border: 2.5px solid #B57EDC; overflow: hidden; box-shadow: 0 2px 12px rgba(181,126,220,0.08);">
  <tr>
@@ -75,7 +75,7 @@ I am passionate developer building my own apps and websites with a strong focus 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
-
+</div>
 <br>
 
 <!-- Snake Animation -->
