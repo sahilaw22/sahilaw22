@@ -75,6 +75,11 @@ I am passionate developer building my own apps and websites with a strong focus 
 </div>
 </div>
 <br>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sahilaw22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 <!-- Snake Animation -->
 <div align="center">
