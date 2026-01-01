@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1000&color=B57EDC&background=00000000&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Sahil;2nd+year+student;My+future+is+in+my+hands" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1000&color=B57EDC&background=00000000&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Sahil;2nd+year+cse+student" alt="Typing SVG" />
 </h1>
 <p align="center" style="font-family: 'Permanent Marker', 'Comic Sans MS', cursive; font-size: 22px; color: #B57EDC; background: transparent; padding: 10px 0; border-radius: 8px;">
 </p>
