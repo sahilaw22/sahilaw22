@@ -3,16 +3,15 @@
 </h1>
 <p align="center" style="font-family: 'Permanent Marker', 'Comic Sans MS', cursive; font-size: 22px; color: #B57EDC; background: transparent; padding: 10px 0; border-radius: 8px;">
 </p>
-<h3 align="center">
-I am passionate developer building my own apps and websites with a strong focus on <b>Flutter</b> and <b>Python</b>. I have a deep interest in AI/ML and Data Analysis,I enjoy crafting practical solutions that solve real-world problems
-</h3>
+<h2 align="center">
+I am learning Flutter and improving my development skills. I enjoy working with Python and have experience with HTML, CSS, JavaScript, and PHP. I like building my own apps and websites through regular practice.
+</h2>
 <br>
 <h2 align="center">🌟 My Coding Journey 🌟</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/2023-Video_Editing-blueviolet?style=for-the-badge" alt="2023"/>
   <img src="https://img.shields.io/badge/2024-GitHub_&_C-green?style=for-the-badge&logo=github" alt="2024"/>
-  <img src="https://img.shields.io/badge/2024-Figma_&_Design-orange?style=for-the-badge&logo=figma" alt="2024"/>
-  <img src="https://img.shields.io/badge/2025-AI_&_Python-red?style=for-the-badge&logo=python" alt="2025"/>
+  <img src="https://img.shields.io/badge/2024-Figma_&_Design-orange?style=for-the-badge&logo=figma" alt="2024"  <img src="https://img.shields.io/badge/2025-AI_&_Python-red?style=for-the-badge&logo=python" alt="2025"/>
   <img src="https://img.shields.io/badge/2025-Web_Tech-yellow?style=for-the-badge&logo=html5" alt="2025"/>
   <br>
 </div>
