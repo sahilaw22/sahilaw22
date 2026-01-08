@@ -52,20 +52,21 @@ I am learning Flutter and improving my development skills. I enjoy working with 
   
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="200"
-      src="https://github-readme-stats-rust-omega-20.vercel.app/api?username=sahilaw22&show_icons=true&theme=dark#gh-dark-mode-only"
-    />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="200"
+    align="center"
+    src="https://github-readme-stats-rust-omega-20.vercel.app/api?username=sahilaw22&show_icons=true&theme=dark#gh-dark-mode-only"
+  />
+</a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="200"
-      src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw22&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only"
-    />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="200"
+    align="center"
+    src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw22&layout=compact&langs_count=8&card_width=320&hide=TypeScript&theme=dark#gh-dark-mode-only"
+  />
+</a>
 </div>
 <br>
 <p align="center">
