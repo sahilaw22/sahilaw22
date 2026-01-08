@@ -53,6 +53,11 @@ I am learning Flutter and improving my development skills. I enjoy working with 
 </div>
 
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25213&api_domain=hackatime.hackclub.com&theme=darcula&layout=compact" />
+</p>
+
+<br>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilaw22&limit=5&theme=dark&combine_all_yearly_contributions=true)
