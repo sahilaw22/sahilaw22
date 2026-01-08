@@ -52,13 +52,28 @@ I am learning Flutter and improving my development skills. I enjoy working with 
   
 </div>
 <br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="200"
+      src="https://github-readme-stats-rust-omega-20.vercel.app/api?username=sahilaw22&show_icons=true&theme=dark#gh-dark-mode-only"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="200"
+      src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw22&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only"
+    />
+  </a>
+</div>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25213&api_domain=hackatime.hackclub.com&theme=darcula&layout=compact" />
 </p>
 
 <br>
 
-## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilaw22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align="center">🌐 Connect With Me</h2>
