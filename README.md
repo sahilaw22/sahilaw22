@@ -75,8 +75,6 @@ I am learning Flutter and improving my development skills. I enjoy working with 
 
 <br>
 
-![](https://github-contributor-stats.vercel.app/api?username=sahilaw22&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-a-057a0231a" target="_blank">
