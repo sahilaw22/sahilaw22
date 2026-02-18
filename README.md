@@ -29,10 +29,10 @@ I am learning Flutter and improving my development skills. I enjoy working with 
  </tr>
  <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=git,html,css,c,cpp,js,php,mysql,blender,figma,dart,md&perline=3" /> 
+        <img src="https://skillicons.dev/icons?i=git,html,css,c,cpp,js,php,blender,figma,dart,md&perline=3" /> 
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,python,ai,googlecloud,md&perline=3" />
+      <img src="https://skillicons.dev/icons?i=mysql,flutter,python,ai,googlecloud,md&perline=3" />
       <br>
     </td>
     <td>
