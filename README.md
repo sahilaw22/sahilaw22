@@ -3,11 +3,13 @@
 </h1>
 <p align="center" style="font-family: 'Permanent Marker', 'Comic Sans MS', cursive; font-size: 22px; color: #B57EDC; background: transparent; padding: 10px 0; border-radius: 8px;">
 </p>
-<h2 align="center">
-I am learning Flutter and improving my development skills. I enjoy working with Python and have experience with HTML, CSS, JavaScript, and PHP. I like building my own apps and websites through regular practice.
-</h2>
+<h3 align="center"><p>
+I am learning Flutter and improving my development skills and fundamentals. I enjoy working with Python and have experience with HTML, CSS, JavaScript, and PHP. I like building my own apps and websites through regular practice.
+</p></h3>
 <br>
-<h2 align="center">🌟 My Coding Journey 🌟</h2>
+<h2 align="center">   <div align="center" style="margin: 40px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=20000&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey"/>
+</div>      </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/2023-Video_Editing-blueviolet?style=for-the-badge" alt="2023"/>
   <img src="https://img.shields.io/badge/2024-GitHub_&_C-green?style=for-the-badge&logo=github" alt="2024"/>
@@ -29,7 +31,7 @@ I am learning Flutter and improving my development skills. I enjoy working with 
  </tr>
  <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=git,html,css,c,cpp,js,php,blender,figma,dart,md&perline=3" /> 
+        <img src="https://skillicons.dev/icons?i=git,html,css,c,cpp,js,php,docker,blender,figma,dart,md&perline=3" /> 
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,flutter,python,java,ai,googlecloud,md&perline=3" />
@@ -64,7 +66,7 @@ I am learning Flutter and improving my development skills. I enjoy working with 
   <img
     height="200"
     align="center"
-    src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw22&layout=compact&langs_count=8&card_width=320&hide=TypeScript&theme=dark#gh-dark-mode-only"
+    src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw22&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only"
   />
 </a>
 </div>
