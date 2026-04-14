@@ -8,7 +8,7 @@ I am learning Flutter and improving my development skills and fundamentals. I en
 </p></h3>
 <br>
 <h2 align="center">   <div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=20000&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey"/>
 </div>      </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/2023-Video_Editing-blueviolet?style=for-the-badge" alt="2023"/>
