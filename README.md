@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=5000&color=B57EDC&background=00000000&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Sahil;2nd+year+cse+student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=5000&color=B57EDC&background=00000000&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Sahil;Currently+in+CSE+2nd+Year;" alt="Typing SVG" />
 </h1>
 <p align="center" style="font-family: 'Permanent Marker', 'Comic Sans MS', cursive; font-size: 22px; color: #B57EDC; background: transparent; padding: 10px 0; border-radius: 8px;">
 </p>
-<h3 align="center"><p>
+<h4 align="center"><p>
 I am learning Flutter and improving my development skills and fundamentals. I enjoy working with Python and have experience with HTML, CSS, JavaScript, and PHP. I like building my own apps and websites through regular practice.
-</p></h3>
+</p></h4>
 <br>
 <h2 align="center">   <div align="center" style="margin: 40px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey"/>
