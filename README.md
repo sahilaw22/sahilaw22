@@ -1,6 +1,6 @@
 <div align="center"><h1> <b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1></div>
 
-<img align="right" width="50%" src="https://github.com/user-attachments/assets/0e9802be-6c98-486f-a679-169f8b42d48c">
+<img align="right" width="40%" src="https://github.com/user-attachments/assets/0e9802be-6c98-486f-a679-169f8b42d48c">
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
  <p align="start" style="font-size: 60px;">
   <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
@@ -19,13 +19,23 @@
 <h2 align="center">   <div align="center" style="margin: 40px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Learning+Journey"/>
 </div>      </h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/2023-Video_Editing-blueviolet?style=for-the-badge" alt="2023"/>
-  <img src="https://img.shields.io/badge/2024-GitHub_&_C-green?style=for-the-badge&logo=github" alt="2024"/>
-  <img src="https://img.shields.io/badge/2024-Figma_&_Design-orange?style=for-the-badge&logo=figma" alt="2024"  <img src="https://img.shields.io/badge/2025-AI_&_Python-red?style=for-the-badge&logo=python" alt="2025"/>
-  <img src="https://img.shields.io/badge/2025-Web_Tech-yellow?style=for-the-badge&logo=html5" alt="2025"/>
-  <br>
-</div>
+
+```javascript
+const journey = [
+  {
+    year: 2024,
+    title: "Development & Design",
+    skills: ["Git", "C", "Figma", "UI/UX Design Principles"],
+    description: "Learned programming basics and design tools"
+  },
+  {
+    year: 2025,
+    title: "Figuring Things Out",
+    skills: ["AI", "Python", "Web Development", "C++"],
+    description: "Exploring AI, automation, and modern web tech"
+  }
+];
+```
 
 <br>
 
