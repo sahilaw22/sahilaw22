@@ -78,7 +78,7 @@ const journey = [
 <br>
 <h1 align="center">
   
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 </h1>
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -110,7 +110,7 @@ const journey = [
 
 <br>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-a-057a0231a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
