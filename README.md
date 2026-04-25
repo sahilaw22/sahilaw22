@@ -11,9 +11,7 @@
 <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=1500&color=FFA500&background=00000000&center=false&vCenter=true&width=350&lines=Frontend+Designing;App+Development;Python+Automation;" />
-
-<br><br>
-
+<br>
 <ul>
   <li>Learning Flutter and improving my development skills and fundamentals</li>
   <li>Enjoy working with Python</li>
