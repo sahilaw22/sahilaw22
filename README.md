@@ -1,14 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=5000&color=B57EDC&background=00000000&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Sahil;Currently+in+CSE+2nd+Year;" alt="Typing SVG" />
-</h1>
-<p align="center" style="font-family: 'Permanent Marker', 'Comic Sans MS', cursive; font-size: 22px; color: #B57EDC; background: transparent; padding: 10px 0; border-radius: 8px;">
+<div align="center"><h1> <b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1></div>
+
+<img align="right" width="50%" src="https://github.com/user-attachments/assets/0e9802be-6c98-486f-a679-169f8b42d48c">
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+ <p align="start" style="font-size: 60px;">
+  <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=1500&color=FFA500&background=00000000&center=false&vCenter=true&width=380&lines=Frontend+Designing;App+Development;Python+Automation;" 
+       style="vertical-align: middle; display: inline-block;" />
 </p>
-<h4 align="center"><p>
-I am learning Flutter and improving my development skills and fundamentals. I enjoy working with Python and have experience with HTML, CSS, JavaScript, and PHP. I like building my own apps and websites through regular practice.
-</p></h4>
+<h4>
+  <ul>
+    <li>Learning Flutter and improving my development skills and fundamentals</li>
+    <li>Enjoy working with Python</li>
+    <li>Experience with HTML, CSS, JavaScript, and PHP</li>
+    <li>Like building my own apps and websites through regular practice</li>
+  </ul>
+</h4>
 <br>
 <h2 align="center">   <div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Learning+Journey"/>
 </div>      </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/2023-Video_Editing-blueviolet?style=for-the-badge" alt="2023"/>
@@ -22,7 +31,7 @@ I am learning Flutter and improving my development skills and fundamentals. I en
 
 <br>
 <div align="center">
-<h1> Skills </h1>
+<h1> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀, 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h1>
 <table style="margin: 5px; border-radius: 18px; border: 2.5px solid #B57EDC; overflow: hidden; box-shadow: 0 2px 12px rgba(181,126,220,0.08);">
  <tr>
     <td><b style="font-size:30px">I have</b></td>
@@ -45,7 +54,8 @@ I am learning Flutter and improving my development skills and fundamentals. I en
 
 <br>
 <h1 align="center">
-  Github Stats
+  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 </h1>
 <div align="center">
   <a href="https://git.io/streak-stats">
