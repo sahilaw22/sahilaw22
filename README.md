@@ -1,20 +1,35 @@
-<div align="center"><h1> <b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1></div>
+<div align="center">
+  <h1><b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1>
+</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" width="40%" src="https://github.com/user-attachments/assets/0e9802be-6c98-486f-a679-169f8b42d48c">
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
- <p align="start" style="font-size: 60px;">
-  <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=1500&color=FFA500&background=00000000&center=false&vCenter=true&width=380&lines=Frontend+Designing;App+Development;Python+Automation;" 
-       style="vertical-align: middle; display: inline-block;" />
-</p>
-<h4>
-  <ul>
-    <li>Learning Flutter and improving my development skills and fundamentals</li>
-    <li>Enjoy working with Python</li>
-    <li>Experience with HTML, CSS, JavaScript, and PHP</li>
-    <li>Like building my own apps and websites through regular practice</li>
-  </ul>
-</h4>
+ <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲</h2>
+
+
+<h3>𝗜 𝗹𝗶𝗸𝗲</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=1500&color=FFA500&background=00000000&center=false&vCenter=true&width=350&lines=Frontend+Designing;App+Development;Python+Automation;" />
+
+<br><br>
+
+<ul>
+  <li>Learning Flutter and improving my development skills and fundamentals</li>
+  <li>Enjoy working with Python</li>
+  <li>Experience with HTML, CSS, JavaScript, and PHP</li>
+  <li>Like building my own apps and websites through regular practice</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/user-attachments/assets/0e9802be-6c98-486f-a679-169f8b42d48c" width="250"/>
+
+</td>
+</tr>
+</table>
 <br>
 <h2 align="center">   <div align="center" style="margin: 40px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Learning+Journey"/>
