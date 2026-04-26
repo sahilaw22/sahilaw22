@@ -9,8 +9,7 @@
 
 
 <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=1500&color=FFA500&background=00000000&center=false&vCenter=true&width=350&lines=Frontend+Designing;App+Development;Python+Automation;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Frontend+development;App+development;Python+automation"/>
 <br>
 <ul>
   <li>Learning Flutter and improving my development skills and fundamentals</li>
