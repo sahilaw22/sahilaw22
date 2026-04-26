@@ -9,13 +9,13 @@
 
 
 <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Frontend+development;App+development;Python+automation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Frontend+development;App+development;Python"/>
 <br>
 <ul>
-  <li>Learning Flutter and improving my development skills and fundamentals</li>
-  <li>Enjoy working with Python</li>
-  <li>Experience with HTML, CSS, JavaScript, and PHP</li>
-  <li>Like building my own apps and websites through regular practice</li>
+  <li>📳 I use Flutter and improving my app development skills.</li>
+  <li>⚕️ I Enjoy working with Python.</li>
+  <li>🧾 I have Experience with HTML, CSS, JavaScript, and PHP.</li>
+  <li>🫯 Love building beautiful apps and websites through regular practice and using designing tools.</li>
 </ul>
 
 </td>
