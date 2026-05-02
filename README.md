@@ -9,13 +9,14 @@
 
 
 <h3>𝗜 𝗹𝗶𝗸𝗲</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Frontend+development;App+development;Python"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Building+apps+using+flutter+%F0%9F%93%B1;Using+Python+for+automation+%F0%9F%90%8D;Designing+beautiful+websites+%F0%9F%AB%AF" />
+</div>
 <br>
 <ul>
-  <li>📳 I use Flutter and improving my app development skills.</li>
-  <li>⚕️ I Enjoy working with Python.</li>
-  <li>🧾 I have Experience with HTML, CSS, JavaScript, and PHP.</li>
-  <li>🫯 Love building beautiful apps and websites through regular practice and using designing tools.</li>
+  <li> I use Flutter and improving my app development skills.</li>
+  <li> I Enjoy working with Python.</li>
+  <li> I have Experience with HTML, CSS, JavaScript, and PHP.</li>
+  <li> I Love building beautiful apps and websites through regular practice and using designing tools.</li>
 </ul>
 
 </td>
