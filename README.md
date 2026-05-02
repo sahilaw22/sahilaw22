@@ -8,8 +8,8 @@
  <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲</h2>
 
 
-<h3>𝗜 𝗹𝗶𝗸𝗲</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Building+apps+using+flutter+%F0%9F%93%B1;Using+Python+for+automation+%F0%9F%90%8D;Designing+beautiful+websites+%F0%9F%AB%AF" />
+<h3>𝗜 Used</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Flutter+for+app+development;Python+for+AI+Automation;Figma+to+design+websites" />
 </div>
 <br>
 <ul>
