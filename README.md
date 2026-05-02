@@ -1,5 +1,6 @@
 <div align="center">
   <h1><b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1>
+  <h3><b>Frontend Engineer • Flutter Developer • ML & Data Science Practitioner</b></h3>
 </div>
 <table>
 <tr>
@@ -9,23 +10,25 @@
 
 
 <h3>𝗜 Used</h3>
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Flutter+for+app+development;Python+for+AI+Automation;Figma+to+design+websites" />
 </div>
+</div>
 <br>
+I'm a <b>2nd Year CSE student</b> focusing on building efficient and scalable applications.
+
+<br>
+<div>
 <ul>
-  <li> I use Flutter and improving my app development skills.</li>
-  <li> I Enjoy working with Python.</li>
-  <li> I have Experience with HTML, CSS, JavaScript, and PHP.</li>
-  <li> I Love building beautiful apps and websites through regular practice and using designing tools.</li>
+  <li> Actively working with <b>Flutter</b> to develop cross-platform mobile applications.</li>
+  <li> Applying <b>Python</b> to build solutions in AI, Automation and Machine Learning.</li>
+  <li> Focused on designing visually appealing and user-friendly interfaces for websites.</li>
+  <li> Building modern, responsive, and high-quality websites using Reactjs.</li>
 </ul>
-
+</div>
 </td>
 
-<td width="40%" align="center">
 
-<img src="https://github.com/user-attachments/assets/0e9802be-6c98-486f-a679-169f8b42d48c" width="250"/>
-
-</td>
 </tr>
 </table>
 <br>
