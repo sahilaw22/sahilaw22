@@ -4,19 +4,17 @@
 </div>
 <table>
 <tr>
-<td width="50%" valign="top">
 
  <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲</h2>
 
 
 <h3>𝗜 Used</h3>
-<div align="center">
+<div align="start">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Flutter+for+app+development;Python+for+AI+Automation;Figma+to+design+websites" />
 </div>
 </div>
 <br>
-I'm a <b>2nd Year CSE student</b> focusing on building efficient and scalable applications.
-
+<h4>I'm a <b>2nd Year CSE student</b> focusing on building efficient and scalable applications.</h4>
 <br>
 <div>
 <ul>
@@ -26,7 +24,6 @@ I'm a <b>2nd Year CSE student</b> focusing on building efficient and scalable ap
   <li> Building modern, responsive, and high-quality websites using Reactjs.</li>
 </ul>
 </div>
-</td>
 
 
 </tr>
