@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1>
-  <h3><b>Frontend Engineer • Flutter Developer • ML & Data Science Practitioner</b></h3>
+  <h2><b>Frontend Engineer • Flutter Developer • ML & Data Science Practitioner</b></h2>
 </div>
 <table>
 <tr>
@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Flutter+for+app+development;Python+for+AI+Automation;Figma+to+design+websites" />
 </div>
 </div>
-<h4>I'm a <b>2nd Year CSE student</b> focusing on building efficient and scalable applications.</h4>
+<h3>I'm a <b>2nd Year CSE student</b> focusing on building efficient and scalable applications.</h3>
 <div>
 <ul>
   <li> Actively working with <b>Flutter</b> to develop cross-platform mobile applications.</li>
@@ -106,7 +106,7 @@ const journey = [
 
 <br>
 
-<h2 align="center">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲</h2>
+<h1 align="center">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-a-057a0231a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -146,7 +146,7 @@ const journey = [
 
 <br>
 <br>
-<h3 align="center">My down time</h3>
+<h2 align="center">My down time</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
