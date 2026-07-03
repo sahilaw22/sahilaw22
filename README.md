@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Flutter+for+app+development;Python+for+AI+Automation;Figma+to+design+websites" />
 </div>
 </div>
-<h3>I'm a <b>3rd Year CSE student</b> focusing on building efficient and scalable applications.</h3>
+<h3>I'm a <b>3rd Year Computer Science and Engineering student</b> focusing on building efficient and scalable applications.</h3>
 <div>
 <ul>
   <li> Actively working with <b>Flutter</b> to develop cross-platform mobile applications.</li>
