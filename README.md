@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>></b> 𝗛𝗶! 𝗜’𝗺 𝗦𝗮𝗵𝗶𝗹.</h1>
-  <h2><b>Frontend Engineer • Flutter Developer • ML & Data Science Practitioner</b></h2>
+  <h3><b>Frontend Engineer • Flutter Developer • ML & Data Science Practitioner</b></h3>
 </div>
 <table>
 <tr>
